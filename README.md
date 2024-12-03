@@ -1,5 +1,5 @@
 # ITCR-Ing. en computación
-Acá se subirá todo el material que fue necesario o entregado a lo largo de la carrera. 
+Acá se subirá todo el material que fue necesario o entregado a lo largo de la carrera, este repositorio tiene un especial enfoque en las matemáticas que se deben de llevar. 
 ## Importante
 Las soluciones de los exámenes y/o proyectos no son del todo correctos, el objetivo de esto es que se practique con las indicaciones que posee el material.
 
